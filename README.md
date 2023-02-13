@@ -14,8 +14,7 @@ Nike warehouses store the following information for each stock-taking list:
 - Cost
 - Quantity
 - Value
-Other store managers (in other regions) would like to be able to use your program
-to do the following:
+# Other store managers (in other regions) would like to be able to use your program to do the following:
 - Search products by code.
 - Determine the product with the lowest quantity and restock it.
 - Determine the product with the highest quantity.
